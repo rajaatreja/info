@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raja Atreja - Data Scientist & Analyst</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f4f4f9;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1.5em 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: 2em auto;
+            padding: 2em;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        section {
+            margin-bottom: 1.5em;
+        }
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 0.5em;
+        }
+        ul {
+            padding-left: 1em;
+        }
+        .contact-info a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Raja Atreja</h1>
+        <p>Data Scientist & Analyst</p>
+    </header>
+
+    <div class="container">
+        <!-- Contact Information -->
+        <section class="contact-info">
+            <h2>Contact Information</h2>
+            <p>
+                📞 Phone: +49 157 58189267 <br>
+                📧 Email: <a href="mailto:raja.atreja@gmail.com">raja.atreja@gmail.com</a> <br>
+                💼 LinkedIn: <a href="https://linkedin.com/in/rajaatreja" target="_blank">linkedin.com/in/rajaatreja</a> <br>
+                🌐 Website: <a href="https://rajaatreja.wixsite.com/rajaatreja" target="_blank">rajaatreja.com</a>
+            </p>
+        </section>
+
+        <!-- Objective -->
+        <section class="objective">
+            <h2>Objective</h2>
+            <p>Upcoming Data Science Master’s graduate with over 2 years of professional experience in Data Analytics, seeking a full-time position as a Data Analyst or Data Scientist. Currently refining expertise in privacy-preserving deep learning methods through a master’s thesis on chest x-ray data. Aiming to empower organizations to make informed decisions by harnessing and interpreting their data effectively.</p>
+        </section>
+
+        <!-- Experience -->
+        <section class="experience">
+            <h2>Experience</h2>
+            <h3>Data Analyst and Power BI Developer, Siemens Healthineers AG</h3>
+            <p><em>Oct 2022 - Present | Erlangen, Germany</em></p>
+            <ul>
+                <li>Led transition to Power BI, boosting productivity management by 30%.</li>
+                <li>Automated data analysis with Python, saving 10 hours weekly.</li>
+                <li>Created a unified data model connecting business lines.</li>
+                <li>Reduced data errors by 40% through data validation and testing.</li>
+            </ul>
+
+            <h3>Master Thesis, Pattern Recognition Lab at FAU</h3>
+            <p><em>Mar 2024 - Sept 2024 | Erlangen, Germany</em></p>
+            <ul>
+                <li>Analyzed optimization strategies for adversarial Chest X-Ray anonymization.</li>
+                <li>Enhanced performance using transformers for multiclass disease classification.</li>
+            </ul>
+
+            <h3>Website Developer, MSS Dept. at FAU</h3>
+            <p><em>May 2023 - Jun 2023</em></p>
+            <ul>
+                <li>Developed website components with Python and Django.</li>
+            </ul>
+
+            <h3>Business Analyst, Muskan Co.</h3>
+            <p><em>Aug 2018 - Jan 2021 | Ghaziabad, India</em></p>
+            <ul>
+                <li>Enhanced business processes with Power Apps, Power BI, and Microsoft Flows.</li>
+                <li>Improved data accuracy by 20% through a novel data analysis strategy.</li>
+            </ul>
+        </section>
+
+        <!-- Education -->
+        <section class="education">
+            <h2>Education</h2>
+            <h3>Master of Data Science, Friedrich Alexander University</h3>
+            <p><em>Expected 2024 | Germany</em></p>
+            <p>Relevant Coursework: Deep Learning, AI, Pattern Recognition, Machine Learning in Time Series.</p>
+
+            <h3>Bachelor of Technology, GLA University</h3>
+            <p><em>2014 - 2018 | India</em></p>
+            <p>Computer Science & Engineering, Grade: 2.2</p>
+        </section>
+
+        <!-- Skills -->
+        <section class="skills">
+            <h2>Skills</h2>
+            <p><strong>Technical Skills:</strong> Data Mining, Statistical Modeling, Data Extraction</p>
+            <p><strong>Tools & Software:</strong> Python, TensorFlow, Power BI, Tableau</p>
+            <p><strong>Soft Skills:</strong> Communication, Teamwork</p>
+        </section>
+
+        <!-- Projects -->
+        <section class="projects">
+            <h2>Projects</h2>
+            <h3>Improving Generative Adversarial Networks</h3>
+            <p>Improved the quality of GAN-generated images using Explainable AI methods.</p>
+
+            <h3>Social Network Analysis of Football</h3>
+            <p>Analyzed team strategies in Euro 2016.</p>
+        </section>
+
+        <!-- Awards & Recognition -->
+        <section class="awards">
+            <h2>Awards & Recognition</h2>
+            <ul>
+                <li>Adidas Franconian Data Science League: 2nd season winner.</li>
+            </ul>
+        </section>
+
+        <!-- Languages -->
+        <section class="languages">
+            <h2>Languages</h2>
+            <p>Hindi (Native), German (B1), English (C1)</p>
+        </section>
+    </div>
+</body>
+</html>
